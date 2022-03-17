@@ -1,5 +1,3 @@
-
-% Masoumeh shariat 1916321
 clc 
 clear all
 %% Exercise: simulation of car following platoon
